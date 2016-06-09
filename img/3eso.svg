@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="370"
+   height="203"
+   viewBox="0 0 370 203"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="3eso.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="125.39528"
+     inkscape:cy="163.01342"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1375"
+     inkscape:window-height="876"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-849.3622)">
+    <g
+       id="g4179"
+       transform="translate(480.10139,529.33399)"
+       inkscape:export-filename="/media/alumne/EYUB/eyub/sergi/proyecto 3º/Proyecto 3º (Portada)/img/3eso.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       style="fill:#c83737">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4136"
+         y="429.24557"
+         x="-454.53851"
+         style="font-size:122.79491425px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#c83737;fill-opacity:1;stroke:none;font-family:sans-serif"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#c83737;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+           y="429.24557"
+           x="-454.53851"
+           id="tspan4138"
+           sodipodi:role="line">3º</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4140"
+         y="502.95041"
+         x="-381.95883"
+         style="font-size:124.83164215px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#c83737;fill-opacity:1;stroke:none;font-family:sans-serif"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#c83737;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+           y="502.95041"
+           x="-381.95883"
+           id="tspan4142"
+           sodipodi:role="line">ESO</tspan></text>
+    </g>
+    <g
+       id="g3012">
+      <g
+         style="fill:#c83737"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/media/alumne/EYUB/eyub/sergi/proyecto 3º/Proyecto 3º (Portada)/img/3eso.png"
+         transform="translate(481.27924,523.82451)"
+         id="g4189">
+        <rect
+           style="fill:#c83737;fill-opacity:1"
+           id="rect4144"
+           width="5.5753789"
+           height="118"
+           x="-481"
+           y="410.36221"
+           ry="0" />
+        <rect
+           style="fill:#c83737;fill-opacity:1"
+           id="rect4144-9"
+           width="4.8682718"
+           height="118"
+           x="523.4939"
+           y="362.5"
+           ry="0"
+           transform="matrix(0,1,-1,0,0,0)" />
+      </g>
+      <g
+         style="fill:#c83737"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/media/alumne/EYUB/eyub/sergi/proyecto 3º/Proyecto 3º (Portada)/img/3eso.png"
+         transform="translate(483.28241,523.84148)"
+         id="g4185">
+        <rect
+           style="fill:#c83737;fill-opacity:1"
+           id="rect4144-6"
+           width="5.5753789"
+           height="118"
+           x="325.57452"
+           y="113.46231"
+           ry="0"
+           transform="matrix(0,1,-1,0,0,0)" />
+        <rect
+           style="fill:#c83737;fill-opacity:1"
+           id="rect4144-9-3"
+           width="4.8682718"
+           height="118"
+           x="113.31586"
+           y="-443.92804"
+           ry="0"
+           transform="scale(-1,-1)" />
+      </g>
+    </g>
+  </g>
+</svg>
