@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="370"
+   height="203"
+   viewBox="0 0 370 203"
+   id="svg2"
+   version="1.1">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(0,-849.3622)">
+    <g
+       id="g4179"
+       transform="translate(489.3461,530.36693)"
+       style="fill:#c83737">
+      <g
+         transform="translate(-0.20507603,-16.428344)"
+         id="g4153">
+        <g
+           transform="translate(-5.6283264,0.94235212)"
+           id="g4154">
+          <text
+             id="text4136"
+             y="426.40128"
+             x="-450.95328"
+             style="font-style:normal;font-weight:normal;font-size:122.79491425px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#c83737;fill-opacity:1;stroke:none"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#c83737"
+               y="426.40128"
+               x="-450.95328"
+               id="tspan4138">la motxilla </tspan></text>
+          <text
+             y="477.95911"
+             x="-449.16617"
+             style="font-style:normal;font-weight:normal;font-size:122.79491425px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#c83737;fill-opacity:1;stroke:none"
+             xml:space="preserve"
+             id="text4149"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#c83737"
+               y="477.95911"
+               x="-449.16617"
+               id="tspan4151">del refugiat</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#c83737"
+               y="477.95911"
+               x="-449.16617"
+               id="tspan4147" /></text>
+        </g>
+      </g>
+      <text
+         id="text4140"
+         y="501.53619"
+         x="-233.67456"
+         style="font-style:normal;font-weight:normal;font-size:124.83164215px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#c83737;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#c83737"
+           y="501.53619"
+           x="-233.67456"
+           id="tspan4142" /></text>
+    </g>
+    <g
+       id="g3012">
+      <g
+         style="fill:#c83737"
+         transform="translate(481.27924,523.82451)"
+         id="g4189">
+        <rect
+           style="fill:#c83737;fill-opacity:1"
+           id="rect4144"
+           width="5.5753789"
+           height="118"
+           x="-481"
+           y="410.36221"
+           ry="0" />
+        <rect
+           style="fill:#c83737;fill-opacity:1"
+           id="rect4144-9"
+           width="4.8682718"
+           height="118"
+           x="523.4939"
+           y="362.5"
+           ry="0"
+           transform="matrix(0,1,-1,0,0,0)" />
+      </g>
+      <g
+         style="fill:#c83737"
+         transform="translate(483.28241,523.84148)"
+         id="g4185">
+        <rect
+           style="fill:#c83737;fill-opacity:1"
+           id="rect4144-6"
+           width="5.5753789"
+           height="118"
+           x="325.57452"
+           y="113.46231"
+           ry="0"
+           transform="matrix(0,1,-1,0,0,0)" />
+        <rect
+           style="fill:#c83737;fill-opacity:1"
+           id="rect4144-9-3"
+           width="4.8682718"
+           height="118"
+           x="113.31586"
+           y="-443.92804"
+           ry="0"
+           transform="scale(-1,-1)" />
+      </g>
+    </g>
+  </g>
+</svg>
